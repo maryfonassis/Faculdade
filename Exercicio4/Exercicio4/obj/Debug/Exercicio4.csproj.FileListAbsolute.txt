@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe.config
