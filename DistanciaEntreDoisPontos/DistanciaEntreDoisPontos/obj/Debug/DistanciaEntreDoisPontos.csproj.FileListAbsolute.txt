@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\DistanciaEntreDoisPontos.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\DistanciaEntreDoisPontos.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\DistanciaEntreDoisPontos.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\DistanciaEntreDoisPontos.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\DistanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\DistanciaEntreDoisPontos.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\DistanciaEntreDoisPontos.pdb
