@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\EstebanEx05\EstebanEx05\bin\Debug\EstebanEx05.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\EstebanEx05\EstebanEx05\bin\Debug\EstebanEx05.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\EstebanEx05\EstebanEx05\bin\Debug\EstebanEx05.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\EstebanEx05\EstebanEx05\obj\Debug\EstebanEx05.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\EstebanEx05\EstebanEx05\obj\Debug\EstebanEx05.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\EstebanEx05\EstebanEx05\obj\Debug\EstebanEx05.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\EstebanEx05\EstebanEx05\obj\Debug\EstebanEx05.pdb
