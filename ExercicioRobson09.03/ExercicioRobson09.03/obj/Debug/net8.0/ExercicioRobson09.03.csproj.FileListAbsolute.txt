@@ -1,0 +1,14 @@
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\ExercicioRobson09.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\ExercicioRobson09.03.AssemblyInfoInputs.cache
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\ExercicioRobson09.03.AssemblyInfo.cs
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\ExercicioRobson09.03.csproj.CoreCompileInputs.cache
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\bin\Debug\net8.0\ExercicioRobson09.03.exe
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\bin\Debug\net8.0\ExercicioRobson09.03.deps.json
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\bin\Debug\net8.0\ExercicioRobson09.03.runtimeconfig.json
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\bin\Debug\net8.0\ExercicioRobson09.03.dll
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\bin\Debug\net8.0\ExercicioRobson09.03.pdb
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\ExercicioRobson09.03.dll
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\refint\ExercicioRobson09.03.dll
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\ExercicioRobson09.03.pdb
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\ExercicioRobson09.03.genruntimeconfig.cache
+C:\Users\049773\source\repos\ExercicioRobson09.03\ExercicioRobson09.03\obj\Debug\net8.0\ref\ExercicioRobson09.03.dll
