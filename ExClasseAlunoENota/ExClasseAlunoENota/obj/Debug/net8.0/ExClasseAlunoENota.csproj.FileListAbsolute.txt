@@ -1,0 +1,14 @@
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\bin\Debug\net8.0\ExClasseAlunoENota.exe
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\bin\Debug\net8.0\ExClasseAlunoENota.deps.json
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\bin\Debug\net8.0\ExClasseAlunoENota.runtimeconfig.json
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\bin\Debug\net8.0\ExClasseAlunoENota.dll
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\bin\Debug\net8.0\ExClasseAlunoENota.pdb
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\ExClasseAlunoENota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\ExClasseAlunoENota.AssemblyInfoInputs.cache
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\ExClasseAlunoENota.AssemblyInfo.cs
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\ExClasseAlunoENota.csproj.CoreCompileInputs.cache
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\ExClasseAlunoENota.dll
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\refint\ExClasseAlunoENota.dll
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\ExClasseAlunoENota.pdb
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\ExClasseAlunoENota.genruntimeconfig.cache
+C:\Users\049773\source\repos\ExClasseAlunoENota\ExClasseAlunoENota\obj\Debug\net8.0\ref\ExClasseAlunoENota.dll
