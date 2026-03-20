@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Beecrowd1074\Beecrowd1074\bin\Debug\Beecrowd1074.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Beecrowd1074\Beecrowd1074\bin\Debug\Beecrowd1074.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Beecrowd1074\Beecrowd1074\bin\Debug\Beecrowd1074.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Beecrowd1074\Beecrowd1074\obj\Debug\Beecrowd1074.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Beecrowd1074\Beecrowd1074\obj\Debug\Beecrowd1074.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Beecrowd1074\Beecrowd1074\obj\Debug\Beecrowd1074.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Beecrowd1074\Beecrowd1074\obj\Debug\Beecrowd1074.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Beecrowd1074\Beecrowd1074\obj\Debug\Beecrowd1074.exe.config
