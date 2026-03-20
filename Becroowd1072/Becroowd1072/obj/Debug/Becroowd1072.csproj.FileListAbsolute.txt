@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Becroowd1072\Becroowd1072\bin\Debug\Becroowd1072.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Becroowd1072\Becroowd1072\bin\Debug\Becroowd1072.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Becroowd1072\Becroowd1072\bin\Debug\Becroowd1072.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Becroowd1072\Becroowd1072\obj\Debug\Becroowd1072.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Becroowd1072\Becroowd1072\obj\Debug\Becroowd1072.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Becroowd1072\Becroowd1072\obj\Debug\Becroowd1072.exe
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Becroowd1072\Becroowd1072\obj\Debug\Becroowd1072.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\cursos\c#\Becroowd1072\Becroowd1072\obj\Debug\Becroowd1072.exe.config
