@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseAlunoeNotas", "ClasseAlunoeNotas\ClasseAlunoeNotas.csproj", "{FDABD584-0FD6-45E6-B5FD-8D9756E6A0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDABD584-0FD6-45E6-B5FD-8D9756E6A0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDABD584-0FD6-45E6-B5FD-8D9756E6A0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDABD584-0FD6-45E6-B5FD-8D9756E6A0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDABD584-0FD6-45E6-B5FD-8D9756E6A0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD4CC8E-D102-4C6A-A2C9-3F67F4E05F52}
+	EndGlobalSection
+EndGlobal
